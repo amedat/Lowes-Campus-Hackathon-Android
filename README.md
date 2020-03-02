@@ -35,7 +35,12 @@
   <img src="https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%2011.04.15%20AM.png">
 </p>
 8. Install and run the app
-Connect the Android device to the computer and be sure to approve any ADB permission prompts that appear on your phone. Select Run -> Run 
+Connect the Android device to the computer and be sure to approve any ADB permission prompts that appear on your phone. Select Run -> Run App
 <p align="center">
   <img src="https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%2011.04.31%20AM.png">
+</p>
+9. Select the deployment target in the connected devices to the device on which the app will be installed. This will install the app on the device
+
+<p align="center">
+  <img src="https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%2011.04.38%20AM.png">
 </p>

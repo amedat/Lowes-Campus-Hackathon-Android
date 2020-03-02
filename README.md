@@ -1,1 +1,1 @@
-# Lowe-s-Campus-Hackathon-Android
+# Lowes-Campus-Hackathon-Android

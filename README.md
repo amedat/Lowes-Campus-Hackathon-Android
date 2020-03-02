@@ -259,3 +259,7 @@ Install and run the app
 Connect the Android device(in debug mode) to the computer and be sure to approve any ADB permission prompts that appear on your phone. Select Run -> Run app.
   Select the deployment target in the connected devices to the device on which the app will be installed. This will install the app on the device.
 
+
+## Description Video
+
+[![Watch the video](https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%201.00.09%20PM.png)](https://youtu.be/tMFqDzaINco)

@@ -9,7 +9,32 @@
 </p>
 3. To clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click on the copy symbol.
 
+  <p align="center">
+  <img src="https://github.com/trippymaniac/Test/blob/master/https-url-clone.png">
+</p>
+
 4. Open Android Studio and Click on Check From Version Control
+<p align="center">
+  <img src="https://github.com/trippymaniac/Test/blob/master/https-url-clone.png">
+</p>
 5. Click on Git
+<p align="center">
+  <img src="https://github.com/trippymaniac/Test/blob/master/https-url-clone.png">
+</p>
 6. Paste the link which you have copied from Github.
+<p align="center">
+  <img src="https://github.com/trippymaniac/Test/blob/master/https-url-clone.png">
+</p>
 7. Click on No when Studio asks for permission to check out.
+<p align="center">
+  <img src="https://github.com/trippymaniac/Test/blob/master/https-url-clone.png">
+</p>
+8. Select Build -> Make Project and check that the project builds successfully. You will need Android SDK configured in the settings. You'll need at least SDK version 23. The build.gradle file will prompt you to download any missing libraries.
+<p align="center">
+  <img src="https://github.com/trippymaniac/Test/blob/master/https-url-clone.png">
+</p>
+9. Install and run the app
+Connect the Android device to the computer and be sure to approve any ADB permission prompts that appear on your phone. Select Run -> Run 
+<p align="center">
+  <img src="https://github.com/trippymaniac/Test/blob/master/https-url-clone.png">
+</p>

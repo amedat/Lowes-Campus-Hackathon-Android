@@ -1,7 +1,7 @@
 # Lowe's Campus Hackathon Android Application
 
 ### Rasa Code has been uploaded in a zip file on techgig.com.
-### If you didn't recepted them kindly email us at saurav.gajbhiye24@gmail.com, goydanipurva@gmail.com, harshalkhandait799@gmail.com
+### If you didn't receipted them kindly email us at saurav.gajbhiye24@gmail.com, goydanipurva@gmail.com, harshalkhandait799@gmail.com
 
 ## Description Video
 

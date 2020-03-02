@@ -17,16 +17,16 @@
 <p align="center">
   <img src="https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%2010.56.47%20AM.png">
 </p>
-5. Paste the link which you have copied from Github.
+5. Paste the link which you have copied from Github and click on Test.
 <p align="center">
-  <img src="https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%2010.56.57%20AM.png">
+  <img src="https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%2011.58.37%20AM.png">
 </p>
 6. Click on 'No' when Studio asks for permission to check out.
 <p align="center">
-  <img src="https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%2011.00.12%20AM.png">
+  <img src="https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%2011.58.48%20AM.png">
 </p>
 
-7. Click on 'open an existing Android Studio Project'
+7. Click on 'Open an existing Android Studio Project'
   <p align="center">
   <img src="https://github.com/trippymaniac/Test/blob/master/Screenshot%202020-03-02%20at%2011.03.57%20AM.png">
 </p>
